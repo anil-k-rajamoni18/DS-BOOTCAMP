@@ -1,0 +1,33 @@
+PYTHON 
+JUPYTER NOTEBOOK
+
+PRE_REQU:
+==============
+sys
+os
+random
+array 
+- jupyter notebook
+	- https://docs.conda.io/en/latest/miniconda.html  - minicoda
+	 
+	- https://www.anaconda.com/products/distribution - Anacoda
+
+### modules for DS/ML
+	- numpy 
+	- pandas
+	- matplotlib
+	- seaborn
+	- INTRO DS/ML 
+	- STEPS TO PREPARE a MODEL 
+	- 2 real-time algorithms.
+
+### LIST 
+	- sequential & collectional & ordered & indexed
+	- mutable (changes are allowed)
+	- stores hetro & homo 
+	- declared [10,10.2,"Kumar"]
+	
+	cons:
+	========
+	- processsing power is less.
+	
